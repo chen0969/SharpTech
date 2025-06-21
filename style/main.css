@@ -59,4 +59,11 @@ h2 {
   color: white;
 }
 
+.topic__style {
+  font-family: "Aldrich", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #818181;
+}
+
 /*# sourceMappingURL=main.css.map */

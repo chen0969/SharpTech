@@ -4,11 +4,11 @@ body {
     all: unset;
 }
 
-a{
+a {
     all: unset;
 }
 
-img{
+img {
     all: unset;
     width: 80%;
 }
@@ -45,7 +45,7 @@ h2 {
     width: 20vw;
     opacity: 0.5;
 
-        @media screen and (max-width: 768px) {
+    @media screen and (max-width: 768px) {
         width: 40vw;
     }
 }
@@ -56,5 +56,14 @@ h2 {
         font-weight: 900;
         font-style: normal;
         color: white;
+    }
+}
+
+.topic {
+    &__style {
+        font-family: "Aldrich", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        color: #818181;
     }
 }
