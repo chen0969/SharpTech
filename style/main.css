@@ -29,7 +29,7 @@ h1 {
 }
 @media screen and (max-width: 768px) {
   h1 {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -38,7 +38,7 @@ h2 {
 }
 @media screen and (max-width: 768px) {
   h2 {
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
 }
 
@@ -64,6 +64,4 @@ h2 {
   font-weight: 900;
   font-style: normal;
   color: #818181;
-}
-
-/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
